@@ -3,6 +3,7 @@ import Cards from './Cards'
 import LoadingCom from './Loading'
 import { useEffect,useState } from 'react'
 import { nanoid } from 'nanoid'
+import Api_Token from '../Data/ApiToken.json'
 // import AllUsers2 from '../Data/Users.json'
 
 const Members = () => {
@@ -22,11 +23,11 @@ const Members = () => {
       "Status":"status"
     }
   ]}
-
+  const token = Object.getOwnPropertyDescriptor(Api_Token, "authorization")
   useEffect(() => {
     fetch("https://discord.api.stdlib.com/guilds@0.2.4/members/list/", {
       "headers": {
-        "authorization": "Bearer tok_dev_sGhPxG44csywtC1XPFRKtUso4atwjGwSLtTTeiiFfvnaDwAWvbzCy2YcEZLCt3Gk",
+        "authorization": token.value,
         "content-type": "application/json"
       },
       "body": "{\"guild_id\":\"725778017086996570\",\"limit\":200}",
@@ -36,7 +37,7 @@ const Members = () => {
   }, []);
   useEffect(() => {
     if (AllUsers.length === 0){setLoading(true);}
-    else{setLoading(false)}
+    // else{setLoading(false)}
   },[AllUsers])
   
   let cards = () => {

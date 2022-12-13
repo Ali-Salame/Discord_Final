@@ -474,17 +474,24 @@
 }
 
 .loader {
+  z-index: 1000;
   width: 6em;
   height: 6em;
   font-size: 10px;
   position: absolute;
-  left: 48%;
-  bottom: -30%;
+  left: 47%;
+  top: 49%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
+@media (max-width: 600px) {
+  .loader {
+    left: 41%;
+    top: 32%;
+  }
+}
 .loader .face {
   position: absolute;
   border-radius: 50%;
