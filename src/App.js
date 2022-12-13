@@ -1,23 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import Background from "./Components/Background";
+import Landing from "./Components/Landing";
+import Nav from "./Components/Nav";
+import About from "./Components/About";
+import Join from "./Components/Join";
+import Members from "./Components/Members";
+import Overlay from "./Components/Overlay";
+import { useState } from "react";
+import 'animate.css';
+
+
 
 function App() {
+  const [Page, setPage] = useState(1)
+  const [Sandwish, setSandwish] = useState(false)
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="Main">
+      <Nav sandwish={Sandwish} sandwishfun={setSandwish} page={Page} next={setPage}/>
+      <Background />
+      {Page === 1 && <Landing />}
+      {Page === 2 && <About />}
+      {Page === 3 && <Join />}
+      {Page === 4 && <Members />}
+      {Sandwish && <Overlay sandwish={Sandwish} sandwishfun={setSandwish} page={Page} next={setPage} />}
     </div>
   );
 }

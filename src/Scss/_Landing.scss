@@ -1,0 +1,107 @@
+.Main {
+  &_Land {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+
+    &_Left {
+      position: absolute;
+      bottom: 0;
+      width: 100vw;
+      height: 100%;
+      img {
+        width: 25%;
+        height: 100%;
+        min-width: 25%;
+
+        }
+      }
+    &_Right {
+      color: white;
+      font-family: 'Aldrich';
+      position: absolute;
+      left: 40%;
+      top: 30%;
+      font-size: 40px;
+      transition: all .7s ease-in-out;
+    }
+    &_Right::after {
+      content: '- Leonardo da Vinci';
+      display: block;
+      position: absolute;
+      right: -3rem;
+      bottom: -3.5rem;
+      font-size: 36px;
+      transition: all .7s ease-in-out;
+    }
+  }
+}
+@media screen and (max-width: 768px) {
+  .Main {
+    min-height: 100%;
+    &_Land {
+      height: auto;
+      width: 100%;
+      max-width: 468px;
+      display: flex;
+      flex-direction: column-reverse;
+
+      &_Left {
+        position: absolute;
+        bottom: 0rem;
+        width: auto;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        
+        
+        img {
+          width: 80%;
+          height: auto;
+          filter: drop-shadow(0px 10px 50px rgb(52, 107, 139));
+          image-rendering:pixelated;
+        }
+      }
+      &_Right {
+        margin: auto;
+        position: absolute;
+        font-size: 25px;
+        transition: all .7s ease-in-out;
+        
+        top: 18rem;
+
+      }
+      &_Right::after {
+        font-size: 16px;
+        right: 0rem;
+        transition: all .7s ease-in-out;
+      }
+    }
+  }
+}
+
+ @media screen and (max-width: 1168px) and (min-width: 768px ) {
+    .Main_Land_Right {
+      font-size: 30px;
+      transition: all .7s ease-in-out;
+    }
+    .Main_Land_Right::after {
+      font-size: 26px;
+      transition: all .7s ease-in-out;
+    }
+
+
+  //   .Main {
+//     &_Land {
+//       &_Left {
+//           img {
+//             width: 50%;
+//             height: 100%;
+//             aspect-ratio: 10/5;
+//           }
+//       }
+//     }
+//   }
+}

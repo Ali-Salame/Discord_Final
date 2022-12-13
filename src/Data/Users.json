@@ -1,0 +1,1255 @@
+[
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-07-10T02:59:45.389000+00:00",
+      "nick": "Jihadi Shaheed",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "730981561989857291",
+        "730982083115089966"
+      ],
+      "user": {
+        "id": "159985870458322944",
+        "username": "MEE6",
+        "avatar": "b50adff099924dd5e6b72d13f77eb9d7",
+        "avatar_decoration": null,
+        "discriminator": "4876",
+        "public_flags": 65536,
+        "bot": true,
+        "avatar_url": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-01-18T14:58:02.025000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "176991879357792256",
+        "username": "JIHADI SHAHEED",
+        "avatar": "6e775151815841b94d059d40934ae5ed",
+        "avatar_decoration": null,
+        "discriminator": "9486",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/176991879357792256/6e775151815841b94d059d40934ae5ed.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-11-19T00:22:23.600000+00:00",
+      "nick": "DP",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "226765793365327872",
+        "username": "AhmedK",
+        "avatar": "d8747872ff8c2898429671d665a695d0",
+        "avatar_decoration": null,
+        "discriminator": "8387",
+        "public_flags": 256,
+        "avatar_url": "https://cdn.discordapp.com/avatars/226765793365327872/d8747872ff8c2898429671d665a695d0.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-06-15T15:02:07.142000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "854375224689295401",
+        "730982083115089966"
+      ],
+      "user": {
+        "id": "228537642583588864",
+        "username": "Vexera",
+        "avatar": "e9883ba0883f8a8311d925bd17639e5f",
+        "avatar_decoration": null,
+        "discriminator": "8487",
+        "public_flags": 65536,
+        "bot": true,
+        "avatar_url": "https://cdn.discordapp.com/avatars/228537642583588864/e9883ba0883f8a8311d925bd17639e5f.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-08-11T17:24:19.576000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "234683362504081427",
+        "username": "Taher_95",
+        "avatar": "e05bf329a7eff844013fd9eb7adeb93e",
+        "avatar_decoration": null,
+        "discriminator": "1761",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/234683362504081427/e05bf329a7eff844013fd9eb7adeb93e.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-04-03T21:21:25.410000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "960287936413315145",
+        "730982083115089966"
+      ],
+      "user": {
+        "id": "235088799074484224",
+        "username": "Rythm",
+        "avatar": "9b29bfc497a70b6cc85bb2087936f8fd",
+        "avatar_decoration": null,
+        "discriminator": "3722",
+        "public_flags": 65536,
+        "bot": true,
+        "avatar_url": "https://cdn.discordapp.com/avatars/235088799074484224/9b29bfc497a70b6cc85bb2087936f8fd.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-07-10T03:12:48.547000+00:00",
+      "nick": "تحسين عبدالصمد",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "235390322467799040",
+        "username": "اناناقة",
+        "avatar": "85dae7c86e10386350b65741c0736f55",
+        "avatar_decoration": null,
+        "discriminator": "3940",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/235390322467799040/85dae7c86e10386350b65741c0736f55.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-06-27T16:05:55.543000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "248828470518349824",
+        "username": "Nos Speed",
+        "avatar": "12703853601cc99af79ba151c4f50b83",
+        "avatar_decoration": null,
+        "discriminator": "1826",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/248828470518349824/12703853601cc99af79ba151c4f50b83.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-09-04T22:50:42.686000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "257212416767688705",
+        "username": "Ex Jahanam Convict",
+        "avatar": "59598ba11c23b17b108d2be92c8f7992",
+        "avatar_decoration": null,
+        "discriminator": "0043",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/257212416767688705/59598ba11c23b17b108d2be92c8f7992.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-09-29T22:22:55.022000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "258930495264391168",
+        "username": "SKTHitaya",
+        "avatar": "64cf2053b0552abe017519e86db86c07",
+        "avatar_decoration": null,
+        "discriminator": "3167",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/258930495264391168/64cf2053b0552abe017519e86db86c07.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-09-29T22:35:18.350000+00:00",
+      "nick": "Bay9'at  Bay9'at",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "270417801318105089",
+        "username": "AMD",
+        "avatar": "a3d4a481045ab2fe5d149af58522dd6f",
+        "avatar_decoration": null,
+        "discriminator": "8657",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/270417801318105089/a3d4a481045ab2fe5d149af58522dd6f.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-08-31T19:18:57.528000+00:00",
+      "nick": "Right Leg Of Memexodia",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "280277383444037633",
+        "username": "Mr.0",
+        "avatar": "d355fe4dc7a9fcdd9844ca8a36457d6f",
+        "avatar_decoration": null,
+        "discriminator": "2669",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/280277383444037633/d355fe4dc7a9fcdd9844ca8a36457d6f.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-03-01T12:29:35.077000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "281231942366658560",
+        "username": "Vikster",
+        "avatar": "f33d8e4a5412fb553aff7448c57b193e",
+        "avatar_decoration": null,
+        "discriminator": "7888",
+        "public_flags": 256,
+        "avatar_url": "https://cdn.discordapp.com/avatars/281231942366658560/f33d8e4a5412fb553aff7448c57b193e.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-06-25T21:16:04.453000+00:00",
+      "nick": "Ali ben talal",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "282592683992809472",
+        "username": "Simple Irelia Enjoyer",
+        "avatar": "a10ea49bc18e1d26afb1d77814d514e5",
+        "avatar_decoration": null,
+        "discriminator": "9842",
+        "public_flags": 64,
+        "avatar_url": "https://cdn.discordapp.com/avatars/282592683992809472/a10ea49bc18e1d26afb1d77814d514e5.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-04-03T21:37:16.975000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "960291927692017676",
+        "730982083115089966"
+      ],
+      "user": {
+        "id": "282859044593598464",
+        "username": "ProBot ✨",
+        "avatar": "156a0d2872579f1ffcaa5d2127239bfd",
+        "avatar_decoration": null,
+        "discriminator": "5803",
+        "public_flags": 65536,
+        "bot": true,
+        "avatar_url": "https://cdn.discordapp.com/avatars/282859044593598464/156a0d2872579f1ffcaa5d2127239bfd.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-10-05T12:06:05.007000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "293206508659933185",
+        "username": "Thrustpirate",
+        "avatar": "95d7e9a7c0d51042c7dd23f8e72f3ae1",
+        "avatar_decoration": null,
+        "discriminator": "1188",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/293206508659933185/95d7e9a7c0d51042c7dd23f8e72f3ae1.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-08-19T09:49:27.706000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "338460948484587530",
+        "username": "HIXXER",
+        "avatar": "d882b1405b428724feb5d414fc088e16",
+        "avatar_decoration": null,
+        "discriminator": "8369",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/338460948484587530/d882b1405b428724feb5d414fc088e16.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-09-29T23:39:08.040000+00:00",
+      "nick": "herculees turkoglu",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "344108212317978636",
+        "username": "Bees Make Honey",
+        "avatar": "a57d2f203eb3d957128dd54837ddffde",
+        "avatar_decoration": null,
+        "discriminator": "3412",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/344108212317978636/a57d2f203eb3d957128dd54837ddffde.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-09-01T17:31:00.365000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "346766352129851393",
+        "username": "Diknash",
+        "avatar": "7821ec9c12f6cfced60d31ec0c0beeb5",
+        "avatar_decoration": null,
+        "discriminator": "2758",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/346766352129851393/7821ec9c12f6cfced60d31ec0c0beeb5.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-09-18T16:11:11.936000+00:00",
+      "nick": "Bay9'at",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "354101834215849989",
+        "username": "live_to_love00",
+        "avatar": "2d51525fbd1fd584e2cb8b0c478d1d13",
+        "avatar_decoration": null,
+        "discriminator": "5246",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/354101834215849989/2d51525fbd1fd584e2cb8b0c478d1d13.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-06-26T10:09:02.783000+00:00",
+      "nick": "BoOmEr",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "366692479950389249",
+        "username": "hassan",
+        "avatar": null,
+        "avatar_decoration": null,
+        "discriminator": "5564",
+        "public_flags": 0
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-04-21T20:00:17.366000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "373340104372125698",
+        "username": "Malik Hajaya",
+        "avatar": "30ffd1ad6ff5a8b35cd71ee74f1a3764",
+        "avatar_decoration": null,
+        "discriminator": "3327",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/373340104372125698/30ffd1ad6ff5a8b35cd71ee74f1a3764.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-09-21T22:09:19.913000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "389157899978407936",
+        "username": "WeirdChamp",
+        "avatar": null,
+        "avatar_decoration": null,
+        "discriminator": "9529",
+        "public_flags": 0
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-07-07T20:07:36.787000+00:00",
+      "nick": "Right Hand Of Memexodia",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "453420643011133440",
+        "username": "The Master Duck",
+        "avatar": "f5cf57b415b9dcda239e01bb607ab435",
+        "avatar_decoration": null,
+        "discriminator": "1636",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/453420643011133440/f5cf57b415b9dcda239e01bb607ab435.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-07-10T02:40:38.123000+00:00",
+      "nick": "Left Leg Of Memexodia",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "520354014357880886",
+        "username": "ghaith",
+        "avatar": "b526495ccfd34eb458a28290fa6db260",
+        "avatar_decoration": null,
+        "discriminator": "3338",
+        "public_flags": 128,
+        "avatar_url": "https://cdn.discordapp.com/avatars/520354014357880886/b526495ccfd34eb458a28290fa6db260.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-10-13T19:07:58.071000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "1030195209046335542",
+        "730982083115089966"
+      ],
+      "user": {
+        "id": "558996910581612545",
+        "username": "QuizBot",
+        "avatar": "4138f694b05d181b868b6c8bd40bc1b4",
+        "avatar_decoration": null,
+        "discriminator": "0134",
+        "public_flags": 65536,
+        "bot": true,
+        "avatar_url": "https://cdn.discordapp.com/avatars/558996910581612545/4138f694b05d181b868b6c8bd40bc1b4.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-06-14T15:18:41.719000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "854017008487366656",
+        "730982083115089966"
+      ],
+      "user": {
+        "id": "614109280508968980",
+        "username": "Chip",
+        "avatar": "20d4cd8423e49253dc2498dd6762c737",
+        "avatar_decoration": null,
+        "discriminator": "4145",
+        "public_flags": 65536,
+        "bot": true,
+        "avatar_url": "https://cdn.discordapp.com/avatars/614109280508968980/20d4cd8423e49253dc2498dd6762c737.png"
+      },
+      "mute": false,
+      "deaf": true
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-05-13T16:57:49.090000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "627455841393573911",
+        "username": "حمود شؤون الحساب الاصلي",
+        "avatar": "cbd14e3f58e0f4d836467ed2f7d3f11a",
+        "avatar_decoration": null,
+        "discriminator": "4848",
+        "bot": true,
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/627455841393573911/cbd14e3f58e0f4d836467ed2f7d3f11a.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-08-12T00:50:42.015000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "627730858220060672",
+        "username": "Raz",
+        "avatar": "be2fd496d20985590f8c3f79072165f2",
+        "avatar_decoration": null,
+        "discriminator": "5922",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/627730858220060672/be2fd496d20985590f8c3f79072165f2.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-03-27T21:56:58.145000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [],
+      "user": {
+        "id": "628655704407932949",
+        "username": "andrej",
+        "avatar": "74ddea7ce7788264bfe0be1ef806e11d",
+        "avatar_decoration": null,
+        "discriminator": "8917",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/628655704407932949/74ddea7ce7788264bfe0be1ef806e11d.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-07-10T02:42:35.199000+00:00",
+      "nick": "Head Of Memexodia",
+      "pending": false,
+      "premium_since": "2022-10-20T17:50:17.673000+00:00",
+      "roles": [
+        "1032712377537404929",
+        "996780222890377276"
+      ],
+      "user": {
+        "id": "642817298947899411",
+        "username": "EmadSab",
+        "avatar": "912afc7906febc8a1218cc055ca08008",
+        "avatar_decoration": null,
+        "discriminator": "9875",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/642817298947899411/912afc7906febc8a1218cc055ca08008.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-01-01T00:41:30.647000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "651114954543333379",
+        "username": "ABDALLAH-HQ",
+        "avatar": "41dcc52cb2f4e200ec690c90a51c0df4",
+        "avatar_decoration": null,
+        "discriminator": "0064",
+        "public_flags": 256,
+        "avatar_url": "https://cdn.discordapp.com/avatars/651114954543333379/41dcc52cb2f4e200ec690c90a51c0df4.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-05-01T21:36:59.310000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "663817506229846036",
+        "username": "crnikonjmrs",
+        "avatar": "4b8fd9cc2297ce8d3954dfd890fcd90f",
+        "avatar_decoration": null,
+        "discriminator": "6003",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/663817506229846036/4b8fd9cc2297ce8d3954dfd890fcd90f.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-07-09T15:00:42.732000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "681914017047904308",
+        "username": "SUN",
+        "avatar": "5a98655484f3d9ca1d5c5704ec4b9607",
+        "avatar_decoration": null,
+        "discriminator": "4234",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/681914017047904308/5a98655484f3d9ca1d5c5704ec4b9607.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-07-10T21:36:40.593000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "690325206023143424",
+        "username": "bader",
+        "avatar": null,
+        "avatar_decoration": null,
+        "discriminator": "9860",
+        "public_flags": 0
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-05-15T01:35:43.346000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "692068673736802367",
+        "username": "varliii",
+        "avatar": "2275bf49956dced8b111882ee939d76c",
+        "avatar_decoration": null,
+        "discriminator": "0775",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/692068673736802367/2275bf49956dced8b111882ee939d76c.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-08-11T17:46:12.696000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "699203401732456478",
+        "username": "x231",
+        "avatar": "2f0fd77a7a16e99ceb50172e91359960",
+        "avatar_decoration": null,
+        "discriminator": "1040",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/699203401732456478/2f0fd77a7a16e99ceb50172e91359960.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-09-25T03:52:52.824000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "1023441938579460109",
+        "730982083115089966"
+      ],
+      "user": {
+        "id": "702099928830443570",
+        "username": "AlbionTools",
+        "avatar": "198282b0fe839151eba22f1d56c05069",
+        "avatar_decoration": null,
+        "discriminator": "0537",
+        "public_flags": 65536,
+        "bot": true,
+        "avatar_url": "https://cdn.discordapp.com/avatars/702099928830443570/198282b0fe839151eba22f1d56c05069.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-09-06T22:28:43.901000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "708361552490922046",
+        "username": "mpku2d",
+        "avatar": null,
+        "avatar_decoration": null,
+        "discriminator": "8102",
+        "public_flags": 0
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-10-13T18:30:23.264000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "1030185751788392510",
+        "730982083115089966"
+      ],
+      "user": {
+        "id": "715906723982082139",
+        "username": "TriviaBot",
+        "avatar": "b9eed3a8771cf9ff21416e432f85b0cb",
+        "avatar_decoration": null,
+        "discriminator": "7948",
+        "public_flags": 65536,
+        "bot": true,
+        "avatar_url": "https://cdn.discordapp.com/avatars/715906723982082139/b9eed3a8771cf9ff21416e432f85b0cb.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-11-24T15:04:50.361000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "730904837230690354",
+        "username": "M.O",
+        "avatar": null,
+        "avatar_decoration": null,
+        "discriminator": "8771",
+        "public_flags": 0
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-08-07T17:47:16.942000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "758711227387478078",
+        "username": "ZU7K",
+        "avatar": "20350876763faac39865985993eed821",
+        "avatar_decoration": null,
+        "discriminator": "6610",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/758711227387478078/20350876763faac39865985993eed821.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2020-10-31T20:32:35.444000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "766224786178703370",
+        "username": "albatny",
+        "avatar": "3ba0ffab0b4942f75ea95a6bd28e2e07",
+        "avatar_decoration": null,
+        "discriminator": "3005",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/766224786178703370/3ba0ffab0b4942f75ea95a6bd28e2e07.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-07-02T20:19:54.388000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "730982083115089966"
+      ],
+      "user": {
+        "id": "819778342818414632",
+        "username": "Activities",
+        "avatar": "5d0f97d51b01a19fd7ba915204222efc",
+        "avatar_decoration": null,
+        "discriminator": "3305",
+        "public_flags": 589824,
+        "bot": true,
+        "avatar_url": "https://cdn.discordapp.com/avatars/819778342818414632/5d0f97d51b01a19fd7ba915204222efc.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-06-13T06:53:37.228000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "841279429485396008",
+        "username": "tawfiqfares2000",
+        "avatar": null,
+        "avatar_decoration": null,
+        "discriminator": "6314",
+        "public_flags": 0
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-10-23T21:12:26.399000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "901576795332182116",
+        "username": "PussyDestroyer6969",
+        "avatar": "dc1d0210cd1cde0b15dd986d159c1aae",
+        "avatar_decoration": null,
+        "discriminator": "9545",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/901576795332182116/dc1d0210cd1cde0b15dd986d159c1aae.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-01-01T00:41:36.212000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "904809574568165376",
+        "username": "memelord",
+        "avatar": "c45245026aa030a856dc767265e80aba",
+        "avatar_decoration": null,
+        "discriminator": "3288",
+        "public_flags": 0,
+        "avatar_url": "https://cdn.discordapp.com/avatars/904809574568165376/c45245026aa030a856dc767265e80aba.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2021-12-16T18:30:14.391000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "921083249248309298",
+        "username": "yoyo....",
+        "avatar": null,
+        "avatar_decoration": null,
+        "discriminator": "2631",
+        "public_flags": 0
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-01-01T00:41:10.049000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256"
+      ],
+      "user": {
+        "id": "922940798490783835",
+        "username": "REZO",
+        "avatar": "cab2b7e06d9db53bce031e57f8d75abc",
+        "avatar_decoration": null,
+        "discriminator": "2670",
+        "public_flags": 128,
+        "avatar_url": "https://cdn.discordapp.com/avatars/922940798490783835/cab2b7e06d9db53bce031e57f8d75abc.png"
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-04-22T18:56:58.276000+00:00",
+      "nick": "Boomer",
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "725850602562912256",
+        "800972547897294858"
+      ],
+      "user": {
+        "id": "962309894395011102",
+        "username": "hassan_99",
+        "avatar": null,
+        "avatar_decoration": null,
+        "discriminator": "0473",
+        "public_flags": 0
+      },
+      "mute": false,
+      "deaf": false
+    },
+    {
+      "avatar": null,
+      "communication_disabled_until": null,
+      "flags": 0,
+      "is_pending": false,
+      "joined_at": "2022-11-01T19:42:25.730000+00:00",
+      "nick": null,
+      "pending": false,
+      "premium_since": null,
+      "roles": [
+        "1037089251273212115",
+        "730982083115089966"
+      ],
+      "user": {
+        "id": "1037085529533055088",
+        "username": "Intellectual Bot",
+        "avatar": null,
+        "avatar_decoration": null,
+        "discriminator": "1620",
+        "public_flags": 0,
+        "bot": true
+      },
+      "mute": false,
+      "deaf": false
+    }
+  ]
