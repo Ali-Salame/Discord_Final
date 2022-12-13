@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Intellectual_Beings/static/css/main.e36aad4c.css",
+    "main.js": "/Intellectual_Beings/static/js/main.15da8a84.js",
+    "static/media/zebby1.png": "/Intellectual_Beings/static/media/zebby1.ef5d62df9764e4229e9d.png",
+    "static/media/Aliens.png": "/Intellectual_Beings/static/media/Aliens.298187945e1b2a56f0f1.png",
+    "static/media/blob.png": "/Intellectual_Beings/static/media/blob.7eb500f6f4d73d315b36.png",
+    "static/media/background.mp4": "/Intellectual_Beings/static/media/background.c75d71d5132100d6a315.mp4",
+    "static/media/main.jpg": "/Intellectual_Beings/static/media/main.13d811835b3a94cd559d.jpg",
+    "static/media/Discord.png": "/Intellectual_Beings/static/media/Discord.534a1b2df2b59ef8ccc5.png",
+    "index.html": "/Intellectual_Beings/index.html",
+    "main.e36aad4c.css.map": "/Intellectual_Beings/static/css/main.e36aad4c.css.map",
+    "main.15da8a84.js.map": "/Intellectual_Beings/static/js/main.15da8a84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e36aad4c.css",
+    "static/js/main.15da8a84.js"
+  ]
+}
