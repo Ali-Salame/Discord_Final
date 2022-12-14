@@ -37,7 +37,7 @@ const Members = () => {
   }, []);
   useEffect(() => {
     if (AllUsers.length === 0){setLoading(true);}
-    // else{setLoading(false)}
+    else{setLoading(false)}
   },[AllUsers])
   
   let cards = () => {
