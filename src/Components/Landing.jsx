@@ -9,7 +9,6 @@ const Landing = () => {
       </div>
       <div className='Main_Land_Right animate__animated animate__fadeIn animate__delay-1s animate__slow'>
         <q className=''>Intellectual passion drives out sensuality</q>
-        {/* <span className=''>, Leonardo da Vinci</span> */}
       </div>
     </section>
   )

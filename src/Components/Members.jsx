@@ -2,27 +2,13 @@ import React from 'react'
 import Cards from './Cards'
 import LoadingCom from './Loading'
 import { useEffect,useState } from 'react'
-import { nanoid } from 'nanoid'
 import Api_Token from '../Data/ApiToken.json'
-// import AllUsers2 from '../Data/Users.json'
 
 const Members = () => {
-  const [OnlineUsers, setOnline] = useState();
   const [AllUsers, setAllUsers] = useState([]);
   const [Loading, setLoading] = useState(false)
-  const [Counter, setCounter] = useState(0)
-  let NewObject = {"Members":[
-    {
-      "Roles":'role',
-      "nick":"nickname",
-      "Profile_pic":"Profile_url",
-      "bot":'true/false',
-      "Username":"Username",
-      "Hashtag":"Hashtag",
-      "Userid":"Id",
-      "Status":"status"
-    }
-  ]}
+
+
   const token = Object.getOwnPropertyDescriptor(Api_Token, "authorization")
   useEffect(() => {
     fetch("https://discord.api.stdlib.com/guilds@0.2.4/members/list/", {
@@ -35,22 +21,23 @@ const Members = () => {
     }).then(response => (response.json()))
       .then(data => setAllUsers(data))
   }, []);
+
   useEffect(() => {
     if (AllUsers.length === 0){setLoading(true);}
     else{setLoading(false)}
   },[AllUsers])
   
+
   let cards = () => {
-    // console.log(AllUsers)
     var users = AllUsers.map( user => {
-      // roles
-      let roles = user.roles
-      let nick = user.nick
+      // Users Data
+      let roles = user.roles // Role
+      let nick = user.nick // Nickname
       let Profile_pic = user.user.avatar_url // Avatar Url
-      let bot = user.user.bot // Bot ?
+      let bot = user.user.bot // Bot 
       let username = user.user.username // Username
       let hashtag = user.user.discriminator // Hashtag(discriminator)
-      let userid = user.user.id // Onclick discordapp.com/users/${id}
+      let userid = user.user.id // ID
       if (hashtag === '9875'){
         return <Cards Profile_p={Profile_pic} nickname={nick} bot={bot} username={username} hashtag={hashtag} id={userid} roles={roles} order2={1}/>
       }

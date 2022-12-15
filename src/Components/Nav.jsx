@@ -1,5 +1,4 @@
 import React from 'react'
-import { useEffect, useState } from 'react'
 
 const Nav = (props) => {
   let current_page = props.page

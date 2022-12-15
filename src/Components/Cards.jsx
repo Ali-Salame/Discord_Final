@@ -1,27 +1,26 @@
 import React from 'react'
-import { useState } from 'react'
 import img from '../Images/Discord.png'
 import { nanoid } from 'nanoid'
+
+
 const Cards = (props) => {
   let name = props.username[0].toUpperCase() + props.username.substring(1)
-  let data = []
   let order = props.order2
 
   let roles = props.roles.map(item => {
     let id = nanoid()
-    if (item === '996780222890377276'){
-      return <h5 style={{color:'Gold'}} key={id}>Owner</h5>
+    switch(item){
+      case '996780222890377276':
+        return <h5 style={{color:'Gold'}} key={id}>Owner</h5>;
+      case '800972547897294858':
+        return <h5 style={{color:'Red'}} key={id}>Gang</h5>;
+      case '730982083115089966':
+        return <h5 style={{color:'#b60953'}} key={id}>Bot</h5>;
+      case '725850602562912256':
+        return <h5 style={{color:'Green'}} key={id}>Intelligent human</h5>;
+      default:
+        break;
     }
-    else if (item === '800972547897294858'){
-      return <h5 style={{color:'Red'}} key={id}>Gang</h5>
-    }
-    else if (item === '730982083115089966'){
-      return <h5 style={{color:'#b60953'}} key={id}>Bot</h5>
-    }
-    else if (item === '725850602562912256') {
-      return <h5 style={{color:'Green'}} key={id}>Intelligent human</h5>
-    }
-    
   })
  
   return (
