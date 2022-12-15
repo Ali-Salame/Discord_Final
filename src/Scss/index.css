@@ -139,7 +139,7 @@
   top: 2.5rem;
   visibility: hidden;
   transform: translateY(-60px);
-  z-index: 101;
+  z-index: 1201;
 }
 .Main_Nav_Sandwish div {
   width: 30px;
@@ -618,6 +618,7 @@ body {
   background-image: url("../Images/main.jpg");
   background-blend-mode: screen;
   background-repeat: no-repeat;
+  background-size: cover;
   max-height: 100%;
   width: 100%;
 }
@@ -632,8 +633,12 @@ body {
   body {
     min-height: 100vh;
     max-width: 100vw;
-    overflow: scroll;
+    overflow: hidden;
     margin: 0;
     padding: 0;
+    background-image: url("../Images/main.jpg");
+    background-blend-mode: screen;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 }/*# sourceMappingURL=index.css.map */
