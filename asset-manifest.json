@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Discord_Final/static/css/main.81b75413.css",
+    "main.css": "/Discord_Final/static/css/main.613ae316.css",
     "main.js": "/Discord_Final/static/js/main.bf4153c3.js",
     "static/media/zebby1.png": "/Discord_Final/static/media/zebby1.ef5d62df9764e4229e9d.png",
     "static/media/Aliens.png": "/Discord_Final/static/media/Aliens.298187945e1b2a56f0f1.png",
@@ -9,11 +9,11 @@
     "static/media/main.jpg": "/Discord_Final/static/media/main.13d811835b3a94cd559d.jpg",
     "static/media/Discord.png": "/Discord_Final/static/media/Discord.534a1b2df2b59ef8ccc5.png",
     "index.html": "/Discord_Final/index.html",
-    "main.81b75413.css.map": "/Discord_Final/static/css/main.81b75413.css.map",
+    "main.613ae316.css.map": "/Discord_Final/static/css/main.613ae316.css.map",
     "main.bf4153c3.js.map": "/Discord_Final/static/js/main.bf4153c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.81b75413.css",
+    "static/css/main.613ae316.css",
     "static/js/main.bf4153c3.js"
   ]
 }
