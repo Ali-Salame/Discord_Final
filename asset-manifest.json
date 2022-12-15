@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Discord_Final/static/css/main.6c64ed94.css",
-    "main.js": "/Discord_Final/static/js/main.6457d44f.js",
+    "main.css": "/Discord_Final/static/css/main.55835c9a.css",
+    "main.js": "/Discord_Final/static/js/main.5cf71f7d.js",
     "static/media/zebby1.png": "/Discord_Final/static/media/zebby1.ef5d62df9764e4229e9d.png",
     "static/media/Aliens.png": "/Discord_Final/static/media/Aliens.298187945e1b2a56f0f1.png",
     "static/media/blob.png": "/Discord_Final/static/media/blob.7eb500f6f4d73d315b36.png",
@@ -9,11 +9,11 @@
     "static/media/main.jpg": "/Discord_Final/static/media/main.13d811835b3a94cd559d.jpg",
     "static/media/Discord.png": "/Discord_Final/static/media/Discord.534a1b2df2b59ef8ccc5.png",
     "index.html": "/Discord_Final/index.html",
-    "main.6c64ed94.css.map": "/Discord_Final/static/css/main.6c64ed94.css.map",
-    "main.6457d44f.js.map": "/Discord_Final/static/js/main.6457d44f.js.map"
+    "main.55835c9a.css.map": "/Discord_Final/static/css/main.55835c9a.css.map",
+    "main.5cf71f7d.js.map": "/Discord_Final/static/js/main.5cf71f7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c64ed94.css",
-    "static/js/main.6457d44f.js"
+    "static/css/main.55835c9a.css",
+    "static/js/main.5cf71f7d.js"
   ]
 }
